@@ -5,3 +5,5 @@ Another local change
 Staged change
 
 Change before add
+
+Change froms server
